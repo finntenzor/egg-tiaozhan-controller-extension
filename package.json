@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-tiaozhan-controller-extension.git"
+    "url": "git+https://github.com/finntenzor/egg-tiaozhan-controller-extension.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/finntenzor/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-tiaozhan-controller-extension#readme",
+  "homepage": "https://github.com/finntenzor/egg-tiaozhan-controller-extension#readme",
   "author": "FinnTenzor",
   "license": "MIT"
 }
